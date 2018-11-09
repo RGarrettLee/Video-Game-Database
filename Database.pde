@@ -140,7 +140,7 @@ void deleteDatabase() {
   databases.remove(databases.get(id));
 }
 
-void saveDatabases() { // Incomplete. Need to work on the file architecture
+void saveDatabases() {
   saveDatabase = createWriter("databases.txt");
   for (int i = 0; i < databases.size(); i++) { // save the database
     saveDatabase.print("Database - " + databases.get(i).name);
@@ -154,7 +154,7 @@ void saveDatabases() { // Incomplete. Need to work on the file architecture
   println("===CURRENT BUILD SAVED===");
 }
 
-void loadDatabases() { // Incomplete. Need to finish the save file before parsing is possible
+void loadDatabases() {
   BufferedReader parser = createReader("databases.txt");
   String line = null;
   String word = "";
