@@ -1,0 +1,38 @@
+Database - Halo Games     | name(Halo 5: Guardians), platform(Xbox One), yearAcq(2018), yearPub(2015)
+ | name(Halo 4), platform(Xbox 360), yearAcq(2012), yearPub(2012)
+ | name(Halo Reach), platform(Xbox 360), yearAcq(2011), yearPub(2010)
+ | name(Halo 3: ODST), platform(Xbox 360), yearAcq(2011), yearPub(2009)
+ | name(Halo 3), platform(Xbox 360), yearAcq(2018), yearPub(2007)
+ | name(Halo Wars), platform(PC), yearAcq(2017), yearPub(2009)
+
+Database - Far Cry Games     | name(Far Cry 5), platform(Xbox One), yearAcq(2018), yearPub(2018)
+ | name(Far Cry 4), platform(PC), yearAcq(2015), yearPub(2014)
+ | name(Far Cry 3), platform(PC), yearAcq(2014), yearPub(2012)
+ | name(Far Cry 2), platform(PC), yearAcq(2014), yearPub(2008)
+
+Database - Tom Clancy Games     | name(The Division), platform(PC), yearAcq(2016), yearPub(2016)
+ | name(Rainbow Six: Siege), platform(PC), yearAcq(2016), yearPub(2015)
+ | name(Ghost Recon Wildlands), platform(PC), yearAcq(2017), yearPub(2017)
+ | name(Splinter Cell Blacklist), platform(PC), yearAcq(2016), yearPub(2013)
+
+Database - Call of Duty Games    | name(Call of Duty: Black Ops 4), platform(PC), yearAcq(2018), yearPub(2018)
+ | name(Call of Duty: Black Ops 3), platform(PC), yearAcq(2016), yearPub(2015)
+ | name(Call of Duty: Black Ops 2), platform(PC), yearAcq(2015), yearPub(2012)
+ | name(Call of Duty: Black Ops), platform(Xbox 360), yearAcq(2010), yearPub(2010)
+ | name(Call of Duty: Modern Warfare 3), platform(Xbox 360), yearAcq(2011), yearPub(2011)
+ | name(Call of Duty: Modern Warfare 2), platform(Xbox 360), yearAcq(2010), yearPub(2009)
+ | name(Call of Duty: Modern Warfare 2), platform(PC), yearAcq(2015), yearPub(2009)
+ | name(Call of Duty: Modern Warfare), platform(Xbox 360), yearAcq(2012), yearPub(2007)
+ | name(Call of Duty: World at War), platform(Xbox 360), yearAcq(2013), yearPub(2008)
+
+Database - Battle Royale Games   | name(Fortnite), platform(PC), yearAcq(2018), yearPub(2017)
+ | name(PUBG), platform(PC), yearAcq(2017), yearPub(2017)
+ | name(Call of Duty: Black Ops 4), platform(PC), yearAcq(2018), yearPub(2018)
+
+Database - Fighting Games  | name(Mortal Kombat X), platform(PC), yearAcq(2015), yearPub(2016)
+ | name(Mortal Kombat 9), platform(PC), yearAcq(2016), yearPub(2011)
+ | name(Mortal Kombat 9), platform(Xbox 360), yearAcq(2012), yearPub(2011)
+ | name(Mortal Kombat 9), platform(PS Vita), yearAcq(2013), yearPub(2011)
+ | name(Injustice: Gods Among Us), platform(PC), yearAcq(2017), yearPub(2013)
+ | name(Injustice: Gods Among Us), platform(PS Vita), yearAcq(2013), yearPub(2013)
+
